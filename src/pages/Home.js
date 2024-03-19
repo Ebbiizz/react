@@ -59,8 +59,7 @@ class Home extends React.Component{
 					<Provider apiKey="acc0dbccce8e557db5ebbe6d605aaa" theme={{colors: {primary: "rgba(4, 74, 123, 0.6)",}
 }}>
 						<LikeButton
-							namespace="my-blog-post"
-							id="how-to-beat-me-at-chess"
+							namespace="4Sign"	
 						/>
 					</Provider>
 				</div>
